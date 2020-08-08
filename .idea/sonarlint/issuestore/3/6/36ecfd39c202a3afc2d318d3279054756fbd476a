@@ -1,0 +1,23 @@
+
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(éöÒıÿÿÿÿ8”ßË².
+V
+squid:S106$"9Replace this use of System.out or System.err by a logger.(Æ¢Íğ8Ğõå².
+|squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¯ŒŞÖúÿÿÿÿ8”ßË².
+Jsquid:S1481	",Remove this unused "number1" local variable.(™ùè™8”ßË².
+Jsquid:S1481
+",Remove this unused "number2" local variable.(µªûÎ8”ßË².
+Ysquid:S1854	";Remove this useless assignment to local variable "number1".(™ùè™8”ßË².
+|squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(÷’ØÃøÿÿÿÿ8”ßË².
+[
+squid:S106%"9Replace this use of System.out or System.err by a logger.(ô’é¾ùÿÿÿÿ8Ğõå².
+Ysquid:S1854
+";Remove this useless assignment to local variable "number2".(µªûÎ8”ßË².
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(âŞÀÃüÿÿÿÿ8çñİ².
+[squid:S3878"8Remove this array creation and simply pass the elements.(Î¿¹£ÿÿÿÿÿ8”ßË².
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(‡’Ïî8”ßË².
+[squid:S3878"8Remove this array creation and simply pass the elements.(£ÁÜüÿÿÿÿ8”ßË².
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ü ÁÎ8çñİ².

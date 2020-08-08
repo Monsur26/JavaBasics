@@ -1,0 +1,5 @@
+
+rsquid:S1215"TDon't try to be smarter than the JVM, remove this call to run the garbage collector.(Ì°¬“8·Úþô˜.
+Tsquid:S1854"6Remove this useless assignment to local variable "sb".(í…Ò‰8—œƒõ˜.
+Esquid:S1481"'Remove this unused "sb" local variable.(í…Ò‰8—œƒõ˜.
+}squid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰8—œƒõ˜.

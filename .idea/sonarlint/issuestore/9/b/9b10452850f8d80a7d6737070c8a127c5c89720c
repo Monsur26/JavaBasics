@@ -1,0 +1,15 @@
+
+Vsquid:S2387"8"favouriteDish" is the name of a field in "GrandFather".(áúã¬8²Şå™.
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(«­†ºşÿÿÿÿ
+"squid:ClassVariableVisibilityCheck"YMake favouriteDish a static final constant or non-public and provide accessors if needed.(áúã¬8ô˜™.
+V
+squid:S106("9Replace this use of System.out or System.err by a logger.(÷Îõ8óÁ§™.
+U
+squid:S106+"9Replace this use of System.out or System.err by a logger.(ÄÍ÷P8Âœª™.
+[
+squid:S106 "9Replace this use of System.out or System.err by a logger.(‹ÃÖøÿÿÿÿ8µ—£™.
+Š"squid:ClassVariableVisibilityCheck"UMake fatherSSN a static final constant or non-public and provide accessors if needed.(¨Ì·8ùª™™.
+V
+squid:S1061"9Replace this use of System.out or System.err by a logger.(Û‹ÅÉ8‹şæ™.
+[
+squid:S106$"9Replace this use of System.out or System.err by a logger.(¾°–ëùÿÿÿÿ8ó†¥™.

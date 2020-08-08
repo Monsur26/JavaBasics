@@ -1,0 +1,10 @@
+
+[
+squid:S106#"9Replace this use of System.out or System.err by a logger.(‹û¥¿şÿÿÿÿ8Ä›™.
+[
+squid:S106+"9Replace this use of System.out or System.err by a logger.(Ì¨–»ÿÿÿÿÿ8ÛÓ™.
+“"squid:ClassVariableVisibilityCheck"YMake favouriteDish a static final constant or non-public and provide accessors if needed.(¾¸ÈÉşÿÿÿÿ8Âóÿœ™.
+[
+squid:S106'"9Replace this use of System.out or System.err by a logger.(¡‡¡ıÿÿÿÿ8ÒŠ™.
+”"squid:ClassVariableVisibilityCheck"ZMake grandFatherSSN a static final constant or non-public and provide accessors if needed.(½€ç•øÿÿÿÿ8¶ú™.
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(«­†ºşÿÿÿÿ

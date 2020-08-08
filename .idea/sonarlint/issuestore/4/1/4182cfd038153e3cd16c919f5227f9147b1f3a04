@@ -1,0 +1,11 @@
+
+ksquid:S1215"TDon't try to be smarter than the JVM, remove this call to run the garbage collector.(Ì°¬“
+psquid:S1215"TDon't try to be smarter than the JVM, remove this call to run the garbage collector.(‚êÝ§þÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ŠÇ–•þÿÿÿÿ
+Fsquid:S1481"*Remove this unused "gCol1" local variable.(‰µí‚üÿÿÿÿ
+Fsquid:S1481"*Remove this unused "gCol2" local variable.(¸ÀŽãúÿÿÿÿ
+Esquid:S1481")Remove this unused "gCo3" local variable.(”üýòþÿÿÿÿ
+Tsquid:S1854"8Remove this useless assignment to local variable "gCo3".(”üýòþÿÿÿÿ
+Usquid:S1854"9Remove this useless assignment to local variable "gCol2".(¸ÀŽãúÿÿÿÿ
+Usquid:S1854"9Remove this useless assignment to local variable "gCol1".(‰µí‚üÿÿÿÿ

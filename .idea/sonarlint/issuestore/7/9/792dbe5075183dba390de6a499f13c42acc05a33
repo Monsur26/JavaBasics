@@ -1,0 +1,6 @@
+
+†%squid:RedundantThrowsDeclarationCheck"hRemove the declaration of thrown exception 'java.lang.ArithmeticException' which is a runtime exception.(≈–”„8£◊õñô.
+V
+squid:S106
+"9Replace this use of System.out or System.err by a logger.(„åîµ8Ω≤Åñô.
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ú¥Ü„8Ω‹¢ñô.

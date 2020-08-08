@@ -1,0 +1,13 @@
+
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(Å”ù²8·šä°.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(Å”ù²8´¸â°.
+€squid:S4165"bRemove this useless assignment; "temp" already holds the assigned value along all execution paths.(ÁÒüø8”£İ°.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ê¯Ü÷ıÿÿÿÿ8ıªã°.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(½ÙàÈ8×å°.
+Ysquid:S1854	";Remove this useless assignment to local variable "number1".(³çº”8ñØ°.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÀŒ¯¼şÿÿÿÿ8å¾æ°.

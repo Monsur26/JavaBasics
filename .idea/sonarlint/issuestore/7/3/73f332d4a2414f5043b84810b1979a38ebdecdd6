@@ -1,0 +1,18 @@
+
+O
+squid:S106;"9Replace this use of System.out or System.err by a logger.(™¯‰Œ
+O
+squid:S106,"9Replace this use of System.out or System.err by a logger.(£³ø
+O
+squid:S1062"9Replace this use of System.out or System.err by a logger.(£³ø
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ú £³
+T
+squid:S106&"9Replace this use of System.out or System.err by a logger.(¡ÖøÅüÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(¿°¨åùÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(·Ë¶˜ıÿÿÿÿ
+O
+squid:S106E"9Replace this use of System.out or System.err by a logger.(™¯‰Œ
+¤squid:S1186`"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Œ¼‡àùÿÿÿÿ8Ÿú¶°.

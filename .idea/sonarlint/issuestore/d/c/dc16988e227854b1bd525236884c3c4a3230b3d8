@@ -1,0 +1,11 @@
+
+hsquid:S2095"JUse try-with-resources or close this "XSSFWorkbook" in a "finally" clause.(∏ô·Ö8ΩÁ∫∞ù.
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ÿ°≥«8π‚û¿õ.
+[
+squid:S106'"9Replace this use of System.out or System.err by a logger.(µ¢˚Ô¯ˇˇˇˇ8ΩÁ∫∞ù.
+isquid:CommentedOutCodeLine?"<This block of commented-out lines of code should be removed.(ù›Ø—8ΩÁ∫∞ù.
+Fsquid:S1148@"#Use a logger to log this exception.(Ä…‘Ö˝ˇˇˇˇ8ΩÁ∫∞ù.
+wsquid:UselessImportCheck"GRemove this unused import 'org.apache.poi.ss.formula.functions.Column'.(ë‹Íú˛ˇˇˇˇ8ì’¶øõ.
+Asquid:S1148C"#Use a logger to log this exception.(ÕÇı√8ΩÁ∫∞ù.
+U
+squid:S106E"9Replace this use of System.out or System.err by a logger.(«ı"8ΩÁ∫∞ù.

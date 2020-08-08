@@ -1,0 +1,15 @@
+
+ksquid:S2095!"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(©·”Ó8Çï”°.
+[
+squid:S106:"9Replace this use of System.out or System.err by a logger.(ÊªÎåúÿÿÿÿ8Çï”°.
+[
+squid:S1062"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8Çï”°.
+[
+squid:S106,"9Replace this use of System.out or System.err by a logger.(¨Ô¥×üÿÿÿÿ8Çï”°.
+Fsquid:S11485"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Çï”°.
+V
+squid:S1066"9Replace this use of System.out or System.err by a logger.(ğüÏ…8Çï”°.
+msquid:S2095""JUse try-with-resources or close this "XSSFWorkbook" in a "finally" clause.(Ø„›şÿÿÿÿ8Çï”°.
+[
+squid:S106/"9Replace this use of System.out or System.err by a logger.(ÅÉÆğşÿÿÿÿ8Çï”°.
+Fsquid:S11489"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ8Çï”°.

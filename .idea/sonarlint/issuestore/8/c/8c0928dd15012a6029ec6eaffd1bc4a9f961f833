@@ -1,0 +1,22 @@
+
+gsquid:S1192"KDefine a constant instead of duplicating this literal "Name is : " 3 times.(õ¨¯Üþÿÿÿÿ
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¥ûú·
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(ãª”Œ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(õ¨¯Üþÿÿÿÿ
+O
+squid:S106'"9Replace this use of System.out or System.err by a logger.(ÉøÅ’
+T
+squid:S1060"9Replace this use of System.out or System.err by a logger.(§ëÊªûÿÿÿÿ
+Asquid:S14815"*Remove this unused "learn" local variable.(Å·³¾
+Asquid:S14817"*Remove this unused "anika" local variable.(ªæ…»
+Bsquid:S14819"+Remove this unused "hassan" local variable.(¾ÒÅŸ
+Gsquid:S1481;"+Remove this unused "xavier" local variable.(’áï÷ýÿÿÿÿ
+Vsquid:S1854;":Remove this useless assignment to local variable "xavier".(’áï÷ýÿÿÿÿ
+Qsquid:S18549":Remove this useless assignment to local variable "hassan".(¾ÒÅŸ
+Psquid:S18547"9Remove this useless assignment to local variable "anika".(ªæ…»
+Psquid:S18545"9Remove this useless assignment to local variable "learn".(Å·³¾
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óàƒùÿÿÿÿ
+hsquid:S00117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œÎïB
+hsquid:S00117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œÎïB

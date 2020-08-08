@@ -1,0 +1,23 @@
+
+[
+squid:S106,"9Replace this use of System.out or System.err by a logger.(ªÀéòşÿÿÿÿ8Ñï•™.
+V
+squid:S106("9Replace this use of System.out or System.err by a logger.(ãŒ”µ8Ñï•™.
+³%squid:RedundantThrowsDeclarationCheck!"vRemove the declaration of thrown exception 'java.io.FileNotFoundException', as it cannot be thrown from method's body.(òá–İıÿÿÿÿ8‚·–™.
+V
+squid:S106U"9Replace this use of System.out or System.err by a logger.(ãŒ”µ8ªóÒ–™.
+[
+squid:S106B"9Replace this use of System.out or System.err by a logger.(İ§¬üÿÿÿÿ8˜èĞ–™.
+V
+squid:S106V"9Replace this use of System.out or System.err by a logger.(šÑÖÀ8ºãÇ–™.
+Msquid:S001087")Either remove or fill this block of code.(¡»¢üùÿÿÿÿ8ãÓ©–™.
+V
+squid:S106J"9Replace this use of System.out or System.err by a logger.(ãŒ”µ8ÔìÄ–™.
+Xsquid:S3518I":Make sure "num2" can't be zero before doing this division.(°ßßÍ8ÔìÄ–™.
+isquid:CommentedOutCodeLine+"<This block of commented-out lines of code should be removed.(†€éˆ8Ñï•™.
+[
+squid:S106M"9Replace this use of System.out or System.err by a logger.(—Úµ±ûÿÿÿÿ8Ì¸»–™.
+[
+squid:S106O"9Replace this use of System.out or System.err by a logger.(õæ€øÿÿÿÿ8Óâ½–™.
+Hsquid:S00108:")Either remove or fill this block of code.(°òÒ¬8ãÓ©–™.
+Msquid:S001082")Either remove or fill this block of code.(¡»¢üùÿÿÿÿ8Ò¤¥–™.

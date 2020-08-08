@@ -1,0 +1,30 @@
+
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ôãâûÿÿÿÿ8©¸®ô˜.
+[
+squid:S106+"9Replace this use of System.out or System.err by a logger.(Ö×Ñîşÿÿÿÿ8ñ·÷–™.
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(–‡i8ùşÌô˜.
+[
+squid:S106'"9Replace this use of System.out or System.err by a logger.(Áèşöûÿÿÿÿ8û§ï–™.
+V
+squid:S106-"9Replace this use of System.out or System.err by a logger.(§ñ£8ñ·÷–™.
+dsquid:S1854
+"ARemove this useless assignment to local variable "computerBrand".(©¤ÄÇıÿÿÿÿ8‡òªô˜.
+Csquid:S2129" Remove this "String" constructor(‰€×©ûÿÿÿÿ8ª¦¿ô˜.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(·ååŠ8¸ãØô˜.
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(÷¾Ğj8Òáô˜.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ğÅçèûÿÿÿÿ8¼ğĞô˜.
+Usquid:S1481
+"2Remove this unused "computerBrand" local variable.(©¤ÄÇıÿÿÿÿ8‡òªô˜.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(­ëè‘8™Òİô˜.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ş¸•Õ8ôîÈô˜.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ƒ²Øıÿÿÿÿ8ı²´ô˜.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(†¤÷®8Ä¢«ô˜.

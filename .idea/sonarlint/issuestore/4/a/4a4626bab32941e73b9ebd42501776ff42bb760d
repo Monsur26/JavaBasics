@@ -1,0 +1,13 @@
+
+[
+squid:S106%"9Replace this use of System.out or System.err by a logger.(ù“³Áþÿÿÿÿ8›ÂÝò˜.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ú÷¸ª8…âÔò˜.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(‰ŠüÆ8Çžòò˜.
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(à×åóúÿÿÿÿ8à›¿ò˜.
+[
+squid:S106)"9Replace this use of System.out or System.err by a logger.(Øý—úÿÿÿÿ8›ÂÝò˜.
+Osquid:S1481",Remove this unused "number2" local variable.(úó·¸øÿÿÿÿ8Ý öò˜.
+^squid:S1854";Remove this useless assignment to local variable "number2".(úó·¸øÿÿÿÿ8òÆöò˜.
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(…Ã°¿ùÿÿÿÿ8ˆ‚·ò˜.

@@ -1,0 +1,13 @@
+
+ssquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(À×ŒÙøÿÿÿÿ8çØ‰´.
+[
+squid:S1060"9Replace this use of System.out or System.err by a logger.(×¦ÉËùÿÿÿÿ8×ª‚´.
+Nsquid:S1481"+Remove this unused "choise" local variable.(½úğ¬øÿÿÿÿ8Æ­İ³.
+[
+squid:S1062"9Replace this use of System.out or System.err by a logger.(€ÿàÛüÿÿÿÿ8è‘ƒ´.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ú¨áÆşÿÿÿÿ8èóç³.
+nsquid:S1149,"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(áÍ¹õ8Éçü³.
+nsquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ËåƒÈ8ÑèÛ³.
+V
+squid:S106&"9Replace this use of System.out or System.err by a logger.(†¾É8²’”´.
